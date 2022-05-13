@@ -1,0 +1,95 @@
+body {
+	background-color:#3D5F87;
+	padding: 150px;
+	font-family: 'Oswald', sans-serif;
+}
+
+img {
+	height: 400px;
+}
+
+
+
+h1 {
+	color:#042F3D;
+	text-align: center;
+}
+
+h2 {
+	color: #568ABC;
+	text-align: center;
+}
+img {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.vue-aérienne {
+	width: 800px;
+	height: 800px;
+	object-fit: cover;
+}
+
+.sur-la-mer {
+	width: 30%;
+	height: 400px;
+	object-fit: cover;
+}
+
+
+.cabanes {
+	width: 30%;
+	height: 400px;
+	object-fit: cover;
+}
+
+.le-phare {
+	width: 30%;
+	height: 400px;
+	object-fit: cover;
+}
+
+.elements-center {
+	text-align: center;
+}
+
+div	{
+	background-color:#D4C4B4;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border: 15px solid steelblue;
+	
+}
+
+.elements-deux {
+	text-align: center;
+}
+
+.elements-trois {
+	text-align: center;
+}
+
+.elements-quatre {
+	display: flex;
+	justify-content: space-around;
+}
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+a {
+	color: #568ABC;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #F45B69;
+	font-size: 22px;
+	font-weight: bolder;
+}
